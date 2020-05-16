@@ -11,7 +11,7 @@
     <dependencies>
         <dependency>
             <groupId>com.company.fdn</groupId>
-            <artifactId>parent-project</artifactId>
+            <artifactId>fdn</artifactId>
             <version>1.0.0</version>
         </dependency>
     </dependencies>
