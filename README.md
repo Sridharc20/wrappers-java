@@ -14,9 +14,13 @@ cd parent-project
   cd mfa
 
   mvn clean install
+  
+  Run the ItbMainProgram.java
 
 # Specific service
 
 cd itb
 
 mvn clean install
+
+Run VehicleTest.java
