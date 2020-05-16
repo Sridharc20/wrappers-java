@@ -6,7 +6,7 @@ git clone https://github.com/Sridharc20/wrappers-java.git
 Install Java 8 version
 
 #this is the parent service
-cd parent-project 
+cd fdn 
 
   mvn clean install
 
